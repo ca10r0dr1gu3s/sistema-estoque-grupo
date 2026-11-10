@@ -12,7 +12,7 @@
 | :--- | :--- | :--- |
 | **Caio Rodrigues** | [@ca10r0dr1gu3s](https://github.com/ca10r0dr1gu3s) | Estrutura inicial, Menu interativo, Conclusão de Tarefas e Gestão do Repositório |
 | **Lauro Manoel** | [@lauromanoel-hub](https://github.com/lauromanoel-hub) | Módulo de Validações, Cadastro, Edição e Exclusão de Tarefas |
-| **Integrante 3** | [@naskjz](https://github.com/naskjz) | Módulo de Listagem Formatada, Filtros e Relatórios Estatísticos |
+| **Luan ** | [@naskjz](https://github.com/naskjz) | Módulo de Listagem Formatada, Filtros e Relatórios Estatísticos |
 
 ---
 
